@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mintyv/userform/static/css/main.afd7172b.chunk.css",
-    "main.js": "/mintyv/userform/static/js/main.b1142c47.chunk.js",
-    "main.js.map": "/mintyv/userform/static/js/main.b1142c47.chunk.js.map",
-    "runtime-main.js": "/mintyv/userform/static/js/runtime-main.5275cf4d.js",
-    "runtime-main.js.map": "/mintyv/userform/static/js/runtime-main.5275cf4d.js.map",
-    "static/js/2.4ffe462c.chunk.js": "/mintyv/userform/static/js/2.4ffe462c.chunk.js",
-    "static/js/2.4ffe462c.chunk.js.map": "/mintyv/userform/static/js/2.4ffe462c.chunk.js.map",
-    "static/js/3.036f1dec.chunk.js": "/mintyv/userform/static/js/3.036f1dec.chunk.js",
-    "static/js/3.036f1dec.chunk.js.map": "/mintyv/userform/static/js/3.036f1dec.chunk.js.map",
-    "index.html": "/mintyv/userform/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/mintyv/userform/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.4ffe462c.chunk.js.LICENSE.txt": "/mintyv/userform/static/js/2.4ffe462c.chunk.js.LICENSE.txt"
+    "main.css": "/mintyv/admin-login-form/static/css/main.afd7172b.chunk.css",
+    "main.js": "/mintyv/admin-login-form/static/js/main.b1142c47.chunk.js",
+    "main.js.map": "/mintyv/admin-login-form/static/js/main.b1142c47.chunk.js.map",
+    "runtime-main.js": "/mintyv/admin-login-form/static/js/runtime-main.7dd85df3.js",
+    "runtime-main.js.map": "/mintyv/admin-login-form/static/js/runtime-main.7dd85df3.js.map",
+    "static/js/2.4ffe462c.chunk.js": "/mintyv/admin-login-form/static/js/2.4ffe462c.chunk.js",
+    "static/js/2.4ffe462c.chunk.js.map": "/mintyv/admin-login-form/static/js/2.4ffe462c.chunk.js.map",
+    "static/js/3.036f1dec.chunk.js": "/mintyv/admin-login-form/static/js/3.036f1dec.chunk.js",
+    "static/js/3.036f1dec.chunk.js.map": "/mintyv/admin-login-form/static/js/3.036f1dec.chunk.js.map",
+    "index.html": "/mintyv/admin-login-form/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/mintyv/admin-login-form/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.4ffe462c.chunk.js.LICENSE.txt": "/mintyv/admin-login-form/static/js/2.4ffe462c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5275cf4d.js",
+    "static/js/runtime-main.7dd85df3.js",
     "static/js/2.4ffe462c.chunk.js",
     "static/css/main.afd7172b.chunk.css",
     "static/js/main.b1142c47.chunk.js"
