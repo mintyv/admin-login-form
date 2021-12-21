@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mintyv/admin-login-form/static/css/main.afd7172b.chunk.css",
-    "main.js": "/mintyv/admin-login-form/static/js/main.b1142c47.chunk.js",
-    "main.js.map": "/mintyv/admin-login-form/static/js/main.b1142c47.chunk.js.map",
-    "runtime-main.js": "/mintyv/admin-login-form/static/js/runtime-main.7dd85df3.js",
-    "runtime-main.js.map": "/mintyv/admin-login-form/static/js/runtime-main.7dd85df3.js.map",
-    "static/js/2.4ffe462c.chunk.js": "/mintyv/admin-login-form/static/js/2.4ffe462c.chunk.js",
-    "static/js/2.4ffe462c.chunk.js.map": "/mintyv/admin-login-form/static/js/2.4ffe462c.chunk.js.map",
-    "static/js/3.036f1dec.chunk.js": "/mintyv/admin-login-form/static/js/3.036f1dec.chunk.js",
-    "static/js/3.036f1dec.chunk.js.map": "/mintyv/admin-login-form/static/js/3.036f1dec.chunk.js.map",
-    "index.html": "/mintyv/admin-login-form/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/mintyv/admin-login-form/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.4ffe462c.chunk.js.LICENSE.txt": "/mintyv/admin-login-form/static/js/2.4ffe462c.chunk.js.LICENSE.txt"
+    "main.css": "/admin-login-form/static/css/main.afd7172b.chunk.css",
+    "main.js": "/admin-login-form/static/js/main.b1142c47.chunk.js",
+    "main.js.map": "/admin-login-form/static/js/main.b1142c47.chunk.js.map",
+    "runtime-main.js": "/admin-login-form/static/js/runtime-main.bf1e3367.js",
+    "runtime-main.js.map": "/admin-login-form/static/js/runtime-main.bf1e3367.js.map",
+    "static/js/2.4ffe462c.chunk.js": "/admin-login-form/static/js/2.4ffe462c.chunk.js",
+    "static/js/2.4ffe462c.chunk.js.map": "/admin-login-form/static/js/2.4ffe462c.chunk.js.map",
+    "static/js/3.036f1dec.chunk.js": "/admin-login-form/static/js/3.036f1dec.chunk.js",
+    "static/js/3.036f1dec.chunk.js.map": "/admin-login-form/static/js/3.036f1dec.chunk.js.map",
+    "index.html": "/admin-login-form/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/admin-login-form/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.4ffe462c.chunk.js.LICENSE.txt": "/admin-login-form/static/js/2.4ffe462c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dd85df3.js",
+    "static/js/runtime-main.bf1e3367.js",
     "static/js/2.4ffe462c.chunk.js",
     "static/css/main.afd7172b.chunk.css",
     "static/js/main.b1142c47.chunk.js"
