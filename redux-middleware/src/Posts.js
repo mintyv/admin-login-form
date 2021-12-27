@@ -23,9 +23,36 @@ const renderPosts = () => {
     }
 
     return value.items.map(el => {
-    return <h3 key={el.id}>{el.title}</h3>
-    })
-}
+        return (
+            <table>
+                <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Active?</th>
+                        <th>Posts</th>
+                        <th>Messages</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {this.props.data.map(el =>
+                    <tr key={el.id}>
+                        <td>{el.firstName}</td>
+                        <td>{el.lastName}</td>
+                        <td>{el.active ? 'Yes' : 'No'}</td>
+                        <td>{el.posts}</td>
+                        <td>{el.messages}</td>
+                    </tr>
+                )}
+                </tbody>
+            </table>
+        );
+    }
+}}; 
+ 
+    // return <h3 key={el.id}>{el.title}</h3>
+ 
+
 return (
     <div>
         {renderPosts()}
