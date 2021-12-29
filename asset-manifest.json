@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/worldcup2019/static/css/main.35c4320e.chunk.css",
-    "main.js": "/worldcup2019/static/js/main.1f317289.chunk.js",
-    "main.js.map": "/worldcup2019/static/js/main.1f317289.chunk.js.map",
-    "runtime-main.js": "/worldcup2019/static/js/runtime-main.b6471ea7.js",
-    "runtime-main.js.map": "/worldcup2019/static/js/runtime-main.b6471ea7.js.map",
-    "static/js/2.1981b1c5.chunk.js": "/worldcup2019/static/js/2.1981b1c5.chunk.js",
-    "static/js/2.1981b1c5.chunk.js.map": "/worldcup2019/static/js/2.1981b1c5.chunk.js.map",
-    "index.html": "/worldcup2019/index.html",
-    "static/css/main.35c4320e.chunk.css.map": "/worldcup2019/static/css/main.35c4320e.chunk.css.map",
-    "static/js/2.1981b1c5.chunk.js.LICENSE.txt": "/worldcup2019/static/js/2.1981b1c5.chunk.js.LICENSE.txt"
+    "main.css": "/WorldCup2019/static/css/main.35c4320e.chunk.css",
+    "main.js": "/WorldCup2019/static/js/main.1f317289.chunk.js",
+    "main.js.map": "/WorldCup2019/static/js/main.1f317289.chunk.js.map",
+    "runtime-main.js": "/WorldCup2019/static/js/runtime-main.29b0ef78.js",
+    "runtime-main.js.map": "/WorldCup2019/static/js/runtime-main.29b0ef78.js.map",
+    "static/js/2.1981b1c5.chunk.js": "/WorldCup2019/static/js/2.1981b1c5.chunk.js",
+    "static/js/2.1981b1c5.chunk.js.map": "/WorldCup2019/static/js/2.1981b1c5.chunk.js.map",
+    "index.html": "/WorldCup2019/index.html",
+    "static/css/main.35c4320e.chunk.css.map": "/WorldCup2019/static/css/main.35c4320e.chunk.css.map",
+    "static/js/2.1981b1c5.chunk.js.LICENSE.txt": "/WorldCup2019/static/js/2.1981b1c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6471ea7.js",
+    "static/js/runtime-main.29b0ef78.js",
     "static/js/2.1981b1c5.chunk.js",
     "static/css/main.35c4320e.chunk.css",
     "static/js/main.1f317289.chunk.js"
