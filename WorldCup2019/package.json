@@ -2,7 +2,7 @@
   "name": "redux-middleware",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mintyv.github.io/WorldCup2019",
+  "homepage": "https://mintyv.github.io/admin-login-form",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
